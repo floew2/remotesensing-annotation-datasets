@@ -28,7 +28,7 @@ Scroll to the right to access the table. Down below this table, you will find an
 ## Overview annotation tools for geospatial data
 
 +------------+-----------------+------------+------------+------------+
-| Tool name  | Description     | Pricing    | URL        | Examples   |
+|            |                 |            |            |            |
 +============+=================+============+============+============+
 |            |                 |            |            |            |
 +------------+-----------------+------------+------------+------------+
