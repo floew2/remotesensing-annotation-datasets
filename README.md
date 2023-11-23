@@ -27,21 +27,109 @@ Scroll to the right to access the table. Down below this table, you will find an
 
 ## Overview annotation tools for geospatial data
 
-+-----------+-------------+---------+------+----------+
-| Tool name | Description | Pricing | URL  | Examples |
-+===========+=============+=========+======+==========+
-|           |             |         |      |          |
-+-----------+-------------+---------+------+----------+
-|           |             |         |      |          |
-+-----------+-------------+---------+------+----------+
-|           |             |         |      |          |
-+-----------+-------------+---------+------+----------+
-|           |             |         |      |          |
-+-----------+-------------+---------+------+----------+
-|           |             |         |      |          |
-+-----------+-------------+---------+------+----------+
-|           |             |         |      |          |
-+-----------+-------------+---------+------+----------+
+<table>
+<colgroup>
+<col style="width: 39%" />
+<col style="width: 55%" />
+<col style="width: 39%" />
+<col style="width: 39%" />
+<col style="width: 39%" />
+<col style="width: 10%" />
+<col style="width: 10%" />
+<col style="width: 10%" />
+<col style="width: 10%" />
+<col style="width: 10%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th><p>Tool name</p></th>
+<th><p>Description</p></th>
+<th><p>Pricing</p></th>
+<th><p>URL</p></th>
+<th><p>Examples</p></th>
+<th style="text-align: center;"><p></p></th>
+<th style="text-align: center;"><p></p></th>
+<th style="text-align: center;"><p></p></th>
+<th style="text-align: center;"><p></p></th>
+<th style="text-align: center;"><p></p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p><a href="https://labelbox.com/">Labelbox</a></p></td>
+<td><p>Labelbox supports annotation of Geotiffs and provides annotations with geospatial coordinates.</p></td>
+<td><p>Free and commercial subscription fee versions available</p></td>
+<td><p><a href="https://labelbox.com/" class="uri">https://labelbox.com/</a></p></td>
+<td></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://groundwork.azavea.com/">Groundwork</a> Azavea</p></td>
+<td><p>An annotation tool for efficiently labeling geospatial data, including satellite imagery, to create training datasets for neural network models from satellite imagery.</p></td>
+<td><p>Free and commercial subscription fee versions available</p></td>
+<td><p><a href="https://groundwork.azavea.com/" class="uri">https://groundwork.azavea.com/</a></p></td>
+<td></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://labelstud.io">LabelStud.io</a></p></td>
+<td><p>Craft comprehensive datasets tailored for the training of YOLO object detection models.</p></td>
+<td><p>Open Source</p></td>
+<td><p><a href="https://labelstud.io" class="uri">https://labelstud.io</a></p></td>
+<td><p><a href="https://labelstud.io/blog/quickly-create-datasets-for-training-yolo-object-detection-with-label-studio/">Annotations in YOLO</a></p></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://pypi.org/project/labelme/">Labelme</a></p></td>
+<td></td>
+<td></td>
+<td><p><a href="https://github.com/wkentaro/labelme" class="uri">https://github.com/wkentaro/labelme</a></p></td>
+<td><p><a href="https://medium.com/@wvsharber/labelme-image-annotation-for-geotiffs-b460ba83804f">Annotation with GeoTiffs</a></p>
+<p><a href="https://github.com/fcakyon/labelme2coco">Convert to COCO</a></p></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://pypi.org/project/labelImg/">Labelimg</a></p></td>
+<td></td>
+<td></td>
+<td><p><a href="https://pypi.org/project/labelImg/" class="uri">https://pypi.org/project/labelImg/</a></p></td>
+<td></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://github.com/microsoft/satellite-imagery-labeling-tool">Satellite Imagery Label Tool</a>Microsoft</p></td>
+<td><p>Utilize intuitive web interface to effortlessly create and share vector annotations across scenes of satellite/aerial imagery.</p></td>
+<td></td>
+<td><p><a href="https://github.com/microsoft/satellite-imagery-labeling-tool" class="uri">https://github.com/microsoft/satellite-imagery-labeling-tool</a></p></td>
+<td></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+</tr>
+</tbody>
+</table>
 
 +---------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------+----------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------+
 | Tool name                                                                                               | Description                                                                                                                                                             | Pricing                                                   | URL                                                            | Examples                                                                                                                       |
