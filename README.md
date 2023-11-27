@@ -67,7 +67,8 @@ xxxx
 
 ## Overview freely available, high resolution remote sensing imagery
 
-New table:
+This table is far from being complete:
+
 | Source name               | Description                                                                                                                 | URL                                               |
 | -------------------------- | --------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------- |
 | OpenAerialMap              | OpenAerialMap comprises a suite of utilities designed for the exploration, dissemination, and utilization of openly licensed satellite and unmanned aerial vehicle (UAV) imagery. Check out their license. | [map.openaerialmap.org](https://map.openaerialmap.org/) |
