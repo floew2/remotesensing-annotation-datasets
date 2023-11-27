@@ -29,16 +29,16 @@ Scroll to the right to access the table. Down below this table, you will find an
 
 <table>
 <colgroup>
-<col style="width: 39%" />
-<col style="width: 55%" />
-<col style="width: 39%" />
-<col style="width: 39%" />
-<col style="width: 39%" />
-<col style="width: 10%" />
-<col style="width: 10%" />
-<col style="width: 10%" />
-<col style="width: 10%" />
-<col style="width: 10%" />
+<col style="width: 22%" />
+<col style="width: 27%" />
+<col style="width: 22%" />
+<col style="width: 22%" />
+<col style="width: 22%" />
+<col style="width: 22%" />
+<col style="width: 22%" />
+<col style="width: 22%" />
+<col style="width: 22%" />
+<col style="width: 22%" />
 </colgroup>
 <thead>
 <tr class="header">
@@ -59,7 +59,7 @@ Scroll to the right to access the table. Down below this table, you will find an
 <td><p><a href="https://labelbox.com/">Labelbox</a></p></td>
 <td><p>Labelbox supports annotation of Geotiffs and provides annotations with geospatial coordinates.</p></td>
 <td><p>Free and commercial subscription fee versions available</p></td>
-<td><p><a href="https://labelbox.com/" class="uri">https://labelbox.com/</a></p></td>
+<td><p><a href="https://labelbox.com/">https://labelbox.com/</a></p></td>
 <td></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"></td>
@@ -71,7 +71,7 @@ Scroll to the right to access the table. Down below this table, you will find an
 <td><p><a href="https://groundwork.azavea.com/">Groundwork</a> Azavea</p></td>
 <td><p>An annotation tool for efficiently labeling geospatial data, including satellite imagery, to create training datasets for neural network models from satellite imagery.</p></td>
 <td><p>Free and commercial subscription fee versions available</p></td>
-<td><p><a href="https://groundwork.azavea.com/" class="uri">https://groundwork.azavea.com/</a></p></td>
+<td><p><a href="https://groundwork.azavea.com/">https://groundwork.azavea.com/</a></p></td>
 <td></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"></td>
@@ -83,7 +83,7 @@ Scroll to the right to access the table. Down below this table, you will find an
 <td><p><a href="https://labelstud.io">LabelStud.io</a></p></td>
 <td><p>Craft comprehensive datasets tailored for the training of YOLO object detection models.</p></td>
 <td><p>Open Source</p></td>
-<td><p><a href="https://labelstud.io" class="uri">https://labelstud.io</a></p></td>
+<td><p><a href="https://labelstud.io">https://labelstud.io</a></p></td>
 <td><p><a href="https://labelstud.io/blog/quickly-create-datasets-for-training-yolo-object-detection-with-label-studio/">Annotations in YOLO</a></p></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"></td>
@@ -95,7 +95,7 @@ Scroll to the right to access the table. Down below this table, you will find an
 <td><p><a href="https://pypi.org/project/labelme/">Labelme</a></p></td>
 <td></td>
 <td></td>
-<td><p><a href="https://github.com/wkentaro/labelme" class="uri">https://github.com/wkentaro/labelme</a></p></td>
+<td><p><a href="https://github.com/wkentaro/labelme">https://github.com/wkentaro/labelme</a></p></td>
 <td><p><a href="https://medium.com/@wvsharber/labelme-image-annotation-for-geotiffs-b460ba83804f">Annotation with GeoTiffs</a></p>
 <p><a href="https://github.com/fcakyon/labelme2coco">Convert to COCO</a></p></td>
 <td style="text-align: center;"></td>
@@ -108,7 +108,7 @@ Scroll to the right to access the table. Down below this table, you will find an
 <td><p><a href="https://pypi.org/project/labelImg/">Labelimg</a></p></td>
 <td></td>
 <td></td>
-<td><p><a href="https://pypi.org/project/labelImg/" class="uri">https://pypi.org/project/labelImg/</a></p></td>
+<td><p><a href="https://pypi.org/project/labelImg/">https://pypi.org/project/labelImg/</a></p></td>
 <td></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"></td>
@@ -117,10 +117,10 @@ Scroll to the right to access the table. Down below this table, you will find an
 <td style="text-align: center;"></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://github.com/microsoft/satellite-imagery-labeling-tool">Satellite Imagery Label Tool</a>Microsoft</p></td>
+<td><p><a href="https://github.com/microsoft/satellite-imagery-labeling-tool">Satellite Imagery Label Tool</a> Microsoft</p></td>
 <td><p>Utilize intuitive web interface to effortlessly create and share vector annotations across scenes of satellite/aerial imagery.</p></td>
 <td></td>
-<td><p><a href="https://github.com/microsoft/satellite-imagery-labeling-tool" class="uri">https://github.com/microsoft/satellite-imagery-labeling-tool</a></p></td>
+<td><p><a href="https://github.com/microsoft/satellite-imagery-labeling-tool">https://github.com/microsoft/satellite-imagery-labeling-tool</a></p></td>
 <td></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"></td>
@@ -130,3 +130,15 @@ Scroll to the right to access the table. Down below this table, you will find an
 </tr>
 </tbody>
 </table>
+
+## Overview freely available, high resolution remote sensing imagery
+
++--------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------+
+| Source name              | Description                                                                                                                                                                                                                                                                                   | URL                               |
++==========================+===============================================================================================================================================================================================================================================================================================+===================================+
+| OpenAerialMap            | OpenAerialMap comprises a suite of utilities designed for the exploration, dissemination, and utilization of openly licensed satellite and unmanned aerial vehicle (UAV) imagery. Check out their license.                                                                                    | <https://map.openaerialmap.org/>  |
++--------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------+
+| Maxar Open Data Program  | In the event of any natural disaster, Maxar's Open Data Program provides satellite imagery to support relief efforts. This includes incidents such as fires, floods, hurricanes, typhoons, and earthquakes. The data is released into the public domain under a Creative Commons 4.0 license. | <https://www.maxar.com/open-data> |
++--------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------+
+| Airbus Defence and Space | Airbus Defense Systems provides over 140 sample images specifically for experimentation purposes. Check out their license.                                                                                                                                                                    | <https://intelligence.airbus.com> |
++--------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------+
