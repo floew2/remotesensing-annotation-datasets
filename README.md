@@ -1,10 +1,26 @@
-# Annotated, remote sensing based data sets for deep learning applications
+# Annotated remote sensing datasets and annotation best practices for deep learning
 
-The availability of annotated datasets is paramount for training and assessing machine learning algorithms geared towards the automated analysis of remote sensing data. Below is a non-comprehensive compilation of aerial and satellite imagery datasets featuring annotations for various computer vision and deep learning tasks, including instance segmentation, object detection, semantic segmentation, scene classification, and others. The subsequent table presents a review of several annotated remote sensing based datasets along with their respective characteristics.
+Annotated datasets are paramount for training and assessing machine learning
+algorithms for the automated analysis of remote sensing data. This repository
+provides a non-comprehensive compilation of aerial and satellite imagery
+datasets with annotations for various computer vision tasks — instance
+segmentation, object detection, semantic segmentation, scene classification,
+and others — along with their key characteristics, plus a practical guide on
+how to create such annotations yourself.
 
-## Overview annotated data sets
+## 📘 Annotation best-practice guide
 
-Scroll to the right to access the table. Down below this table, you will find an overview of annotation tools.
+Creating your own training data? The
+[**Aerial & Satellite Image Annotation – Best Practices Guide**](ANNOTATION_GUIDE.md)
+covers the full workflow for object detection: bounding boxes & OBB,
+model-assisted labeling (SAM 2/3), GIS-based tiling workflows, occlusion and
+labeling conventions, quality assurance, and spatially blocked data splits —
+with references to the underlying literature.
+
+## Overview of annotated datasets
+
+Scroll to the right to access the full table. Below the table, you will find
+an overview of annotation tools.
 
 |                                            Name                                            |                               Topics                                |               Images/Image chips               |     N annotations      |                  Main Task                  | Classes | Publication year |  Image acquisition years   |                                               Regions                                                |                  Total area                  |                                         Publication Paper                                         | Storage (zipped) |               Size [px]               |                             Format                             |                                                     Download URL                                                      |                                       Example codes                                        | Pixel size [cm] |              Sensors               |     Type     |                                     Licence                                     |                       Licence URL                       |
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
